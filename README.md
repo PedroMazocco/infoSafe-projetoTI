@@ -1,1 +1,2 @@
-Meu trabalho de conclusão de curso (IFSC). É um aplicativo mobile, desenvolvido com React Native, para denúncia de situações de violência nas escolas.
+My course completion work (IFSC). It is a mobile app, developed with React Native, for reporting situations of violence in schools.
+
